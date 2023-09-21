@@ -1,7 +1,7 @@
 # Spark_foundation_Internship
-# Prediction using Supervised ML
+#  #1 Prediction using Supervised ML
 
-## Task Description
+## Task 1 Description
 
 - **Level**: Beginner
 - **Task**: Predict the percentage of a student based on the number of study hours.
